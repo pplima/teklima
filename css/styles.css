@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Nexa";
+}
+html, body{
+
+}
+
+@font-face{
+	src:url('fonts/Nexa Bold.otf');
+	src:url('fonts/Nexa Light.otf');
+	font-family: "Nexa";
+}
