@@ -13,3 +13,21 @@ html, body{
 	src:url('fonts/Nexa Light.otf');
 	font-family: "Nexa";
 }
+.container_center{
+	width: 1280px;
+	margin: 0 auto;
+}
+
+.container_barra_superior{
+	width: 100%;
+	height: 70px;
+	background-color: #14929B;
+}
+.container_img_logo img{
+	margin: 15px;
+}
+
+
+
+
+
