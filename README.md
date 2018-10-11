@@ -1,0 +1,1 @@
+Projeto de uma Landing Page pessoal de serviços de tecnologia como desenvolvimento web, marketing digital, SEO, web design
